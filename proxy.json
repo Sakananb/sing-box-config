@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gcp.xianyui.cn",
+        "bangumi.moe",
+        "xfltd.org",
+        "nodeseek.com",
+        "hostevaluate.com",
+        "faceit.com"
+      ]
+    }
+  ]
+}
